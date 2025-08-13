@@ -9,4 +9,6 @@ CyberPulse is a mini project built using Python and Streamlit that helps users a
 - 🔑 Password Strength Checker
 
 ## 🚀 How to Run
-1. Install requirements:
+1. open terminal
+2. Run- streamlit run app.py
+3.After running, Streamlit will give you a URL like: Local URL: http://localhost:8501
